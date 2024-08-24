@@ -37,7 +37,7 @@ export default function Page() {
         </h1>
 
         <p class="mt-4 leading-relaxed text-gray-500">
-              Username:- samplesignin30@gmail.com<br />
+              Username:- samplesignin30@gmail.com
               password:- samplesignin30
         </p>
         <div className="h-5"></div>
