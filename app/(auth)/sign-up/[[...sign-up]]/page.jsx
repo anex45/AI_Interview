@@ -37,7 +37,7 @@ export default function Page() {
         </h1>
 
         <p class="mt-4 leading-relaxed text-gray-500">
-         Sample Signin \n
+         <br>Sample Signin </br>
               Username:- samplesignin30@gmail.com
               password:- sample_sign_in30
         </p>
