@@ -42,8 +42,8 @@ export default function Page() {
             </h2>
 
             <p class="mt-4 leading-relaxed text-white/90">
-             <br> Sample Sign_in:-<br>
-              Username:- samplesignin30@gmail.com<br>
+             <br /> Sample Sign_in:-<br />
+              Username:- samplesignin30@gmail.com<br />
               password:- samplesignin30
             </p>
           </div>
@@ -75,8 +75,8 @@ export default function Page() {
               </h1>
 
               <p class="mt-4 leading-relaxed text-gray-500 dark:text-gray-400">
-              <br>Sample Sign_in:-<br>
-              Username:- samplesignin30@gmail.com <br>
+              <br />Sample Sign_in:-<br />
+              Username:- samplesignin30@gmail.com <br />
               password:- sample_sign_in30
               </p>
             </div>
